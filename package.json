@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "This is a project2",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pj",
+  "license": "ISC"
+}
